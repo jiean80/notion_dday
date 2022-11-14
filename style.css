@@ -9,7 +9,7 @@ body{
   background-color:rgb(47,52,55);color:rgba(255,255,255,0.9)
 }
 #mode{
-  height:calc(80vh);width:calc(80vw)
+  height:calc(100vh);width:calc(100vw)
 }
 .day{
   background-color:white
