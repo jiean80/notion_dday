@@ -17,8 +17,8 @@ body {
 }
 
 #mode {
-    height: calc(80vh);
-    width: calc(80vw);
+    height: calc(100vh);
+    width: calc(100vw);
 }
 
 .day {
